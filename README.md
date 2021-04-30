@@ -5,7 +5,7 @@ Criar um objeto que servirá como uma loja, o qual deverá ter um atributo Produ
 E os seguintes métodos:
 
 - `inserirProduto [ String nomeProduto ]`
-- `removerProduto [ String nomeProduto ]'
+- `removerProduto [ String nomeProduto ]`
 - `listarProdutos`
 
 Após a criação do seu objeto, execute os seguintes métodos (na respectiva ordem):
